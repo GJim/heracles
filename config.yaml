@@ -1,0 +1,5 @@
+log:
+  file_path: null
+  emit_stdout: true
+  emit_stderr: false
+  log_filters: info
